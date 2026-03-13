@@ -9,7 +9,7 @@ This project supports **Sustainable Development Goal 4: Quality Education**. The
 ## Team Members
 
 *Cherise John Zakaria, 0388880 - Project Planning & Trello Management
-Responsible for organizing the project planning phase, managing the Trello board, creating task lists, and tracking the team's progress throughout the development process. Working with every member in each stage.
+Responsible for organizing the project planning phase, managing the Trello board, creating task lists, and tracking the team's progress throughout the development process. Working with every member in each stage and reviewing every step.
 
 Aminath Saba Sodhiq, 0388439 – System Design Lead
 Responsible for developing the system structure, including the Use Case Diagram and Class Diagram, and ensuring the design accurately represents the functionality of the Peer Tutoring System.
