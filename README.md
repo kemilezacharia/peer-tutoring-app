@@ -35,3 +35,8 @@ During the planning phase, the project idea was discussed and the main system re
 
 **Design:**
 In the design phase, system diagrams were created to represent how the system would function. A Use Case Diagram was developed to illustrate the interactions between users and the system, while a Class Diagram was
+Testing:
+The prototype was evaluated using both unit testing and integration testing. Unit testing focused on checking the functionality of individual features, while integration testing ensured that different components of the system worked together correctly.
+
+Final Stage:
+In the final stage, the prototype design and supporting materials were finalized. Screenshots and documentation were prepared to demonstrate how the proposed tutoring system would operate for students, tutors, and administrators.
